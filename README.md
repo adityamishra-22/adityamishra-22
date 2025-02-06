@@ -3,7 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mishraaji_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mishraaji_22" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-mishra-28201a231/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-mishra-28201a231" height="30" width="40" />
+</a>
+
 <a href="https://www.leetcode.com/adi22mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adi22mishra" height="30" width="40" /></a>
 </p>
 
